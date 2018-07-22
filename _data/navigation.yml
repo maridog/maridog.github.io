@@ -1,0 +1,26 @@
+# Sample site navigation bar links
+
+- title: News
+  url: /
+- title: About
+  url: /about/
+- title: Contact
+  url: /contact/
+# - title: CV #TODO: We now have the cv inside the about page
+#   url: /cv/
+# - title: Archive
+#   url: /archive/
+# - title: Categories
+#   url: /categories/
+# - title: Tags
+#   url: /tags/
+- title: Current Seminars
+  url: /seminars/
+- title: Books
+  url: /books/
+- title: Research
+  url: /research/
+- title: Search
+  url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html

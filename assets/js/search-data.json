@@ -1,0 +1,78 @@
+---
+layout: null
+sitemap: false
+---
+
+var store = [
+  {%- for c in site.collections -%}
+    {%- if forloop.last -%}
+      {%- assign l1 = true -%}
+    {%- endif -%}
+    {%- assign docs = c.docs | where_exp: 'doc', 'doc.search != false' -%}
+    {%- for doc in docs -%}
+      {
+        "title": {{ doc.title | jsonify }},
+        "excerpt":
+          {%- if site.search_full_content == true -%}
+          {{ doc.content | 
+            replace:"</p>", " " | 
+            replace:"</h1>", " " | 
+            replace:"</h2>", " " | 
+            replace:"</h3>", " " | 
+            replace:"</h4>", " " | 
+            replace:"</h5>", " " | 
+            replace:"</h6>", " "|
+          strip_html | strip_newlines | jsonify }},
+        {%- else -%}
+          {{ doc.content | 
+            replace:"</p>", " " | 
+            replace:"</h1>", " " | 
+            replace:"</h2>", " " | 
+            replace:"</h3>", " " | 
+            replace:"</h4>", " " | 
+            replace:"</h5>", " " | 
+            replace:"</h6>", " "|
+           strip_html | strip_newlines | truncatewords: 50 | jsonify }},
+        {%- endif -%}
+        "categories": {{ doc.categories | jsonify }},
+        "tags": {{ doc.tags | jsonify }},
+        "url": {{ doc.url | absolute_url | jsonify }}
+      } {%- unless forloop.last and l1 -%}, {%- endunless -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  , {% comment %} We also add all pages which are searchable {% endcomment %}
+  {%- assign searchable_pages = site.html_pages | where_exp: 'doc', 'doc.search != false' -%}
+  {%- for p in searchable_pages -%}
+    {%- if forloop.last -%}
+      {%- assign l2 = true -%}
+    {%- endif -%}
+    {
+      "title": {{ p.title | jsonify }},
+      "excerpt":
+        {%- if site.search_full_content == true -%}
+        {{ p.content | 
+          replace:"</p>", " " | 
+          replace:"</h1>", " " | 
+          replace:"</h2>", " " | 
+          replace:"</h3>", " " | 
+          replace:"</h4>", " " | 
+          replace:"</h5>", " " | 
+          replace:"</h6>", " "|
+        strip_html | strip_newlines | jsonify }},
+      {%- else -%}
+        {{ p.content | 
+          replace:"</p>", " " | 
+          replace:"</h1>", " " | 
+          replace:"</h2>", " " | 
+          replace:"</h3>", " " | 
+          replace:"</h4>", " " | 
+          replace:"</h5>", " " | 
+          replace:"</h6>", " "|
+         strip_html | strip_newlines | truncatewords: 50 | jsonify }},
+      {%- endif -%}
+      "categories": {{ p.categories | jsonify }},
+      "tags": {{ p.tags | jsonify }},
+      "url": {{ p.url | absolute_url | jsonify }}
+    } {%- unless forloop.last and l2 -%}, {%- endunless -%}
+  {%- endfor -%}
+]
