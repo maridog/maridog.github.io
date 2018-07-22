@@ -6,15 +6,12 @@ permalink: /research/
 
 # Doctoral Students
 
-* [Bib Bob](http://www.example.com)
-* [Blub blub](mailto:bob@example.com)
+* [Jo Doe](http://www.example.com)
 
 Text is just text
 
 # Research
 
-I write articles about ... and ...
-My main topics are ..., I also do ...
 Check out the full publication list on:
 
 <p class="text-truncate">Truncated text. This is a suuuuper loong thing thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing </p>
