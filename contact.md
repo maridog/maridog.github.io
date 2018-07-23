@@ -6,8 +6,6 @@ permalink: /contact/
 
 This page could hold the contact information.
 
-<img src="/images/catPurr.gif" alt="Cat purring">
-
 ## Address
 
 <address>
