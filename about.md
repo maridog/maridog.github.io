@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-![right-aligned-image](/images/profilePicMarido){: .align-right}
+![Marie Dominique Garnier](/images/profilePicMarido.jpg){: .align-right}
 
 # Marie-Dominique Garnier
 

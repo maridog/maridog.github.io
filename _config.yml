@@ -72,6 +72,10 @@ tag_archive_path: "/tags/#"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - scraper #We exclude the scraper directory from processing by Jekyll
 
 plugins:
   - jekyll-seo-tag
