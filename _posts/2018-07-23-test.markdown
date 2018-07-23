@@ -8,4 +8,4 @@ This is another short update to test emojis
 
 :smile: should probably be an emoji
 :+1: also
-:octopus: This is octo
+:octopus: This is octopus

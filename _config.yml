@@ -17,7 +17,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: Marie Dominique Garnier
-description: Optional description
+description: Professor of English Literature and Gender Studies, University of Paris 8, France
 #TODO: This is not optimal, but we also use this in the icon below.
 email: mariedog@example.com
 baseurl: "/" # the subpath of your site, e.g. "/blog"
