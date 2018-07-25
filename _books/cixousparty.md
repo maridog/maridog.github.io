@@ -1,7 +1,7 @@
 ---
 title: "Cixous Party"
 image:
-  #path: images/Cixousparty_thumbnail.jpeg
+  path: images/noimage.jpg
   thumbnail: images/Cixousparty_thumbnail.jpeg
   caption: "Cixousparty_cover"
 ---
