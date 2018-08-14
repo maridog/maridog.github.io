@@ -37,7 +37,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: mariedog # site's Twitter username
+  username: # site's Twitter username
 
 # Liquid
 liquid:
@@ -131,9 +131,9 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/mariedog
     icon: fab fa-twitter-square
-  - title: Mail
-    url: mailto:mariedog@example.com
-    icon: far fa-envelope
+  # - title: Mail
+  #   url: mailto:mariedog@example.com
+  #   icon: far fa-envelope
   # - title: Instagram
   #   url: https://instagram.com/mariedog
   #   icon: fab fa-instagram

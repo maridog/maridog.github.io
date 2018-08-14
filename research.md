@@ -4,17 +4,17 @@ layout: page
 permalink: /research/
 ---
 
+<!--
 # Doctoral Students
 
 * [Jo Doe](http://www.example.com)
 
 Text is just text
+-->
 
 # Research
 
-Check out the full publication list on:
-
-<p class="text-truncate">Truncated text. This is a suuuuper loong thing thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing  thing </p>
+Some recent publications are uploaded on academia.edu (see below for direct links):
 
 [Academia](http://univ-paris8.academia.edu/MarieDGarnier/Papers){: .btn .btn--info}
 
