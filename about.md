@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 layout: page
 permalink: /about/
 ---
@@ -8,60 +8,9 @@ permalink: /about/
 
 # Marie-Dominique Garnier
 
-Membre de l’UMR LEGS
-Professeure de littérature anglaise et d’études de genre
-
-## Champs de recherche
-
-* Féminismes et philosophies de la différence (différences, différance, différend)
-* Ecritures féminines contemporaines
-* Etudes queer, études post-genre
-* Genre, graphiques et politiques de la langue
-* Littérature et photographie
-* Modernisme
-* Traduction
-* Poésie et poétiques du XVIIème siècle
-* Etudes shakespeariennes
-
-## Recherches en cours
-
-* Politiques et graphique du genre : le genre à la lettre, genre et langue « maternelle »
-* Genre et architecture
-
-## Responsabilités institutionnelles (2006—présent)
-
-* Responsable pédagogique de la formation doctorale en Etudes de genre, Centre d’études féminines et d’études de genre, 2013-2015
-* Responsable de la Commission d’admission au Master genre (2008-2011)
-* Co-responsable de la formation doctorale en Etudes de genre, 2011-2014
-* Membre de l’Equipe d’accueil EA 1569 (Transferts critiques et dynamiques des savoirs) de l’Université Paris 8, 1996 - Décembre 2014.
-* Membre du Laboratoire LEGS UMR 8238, Janvier 2014-
-* Membre suppléante du Comité Consultatif « Genre » de l’Université Paris 8, 2012-2013.
-* Membre suppléante du Conseil de l’ED « Pratiques et Théories du Sens », Paris 8, 2012-2015
-* Membre de la Commission de spécialistes 11ème section, ENS rue d’ULM, 1994-1996.
-* Responsabilité du Département de Littérature anglaise à l’Université de Paris VIII (1997-2001)
-* Membre titulaire des Commissions de Spécialistes de Paris VIII (1996-2003), Paris X (1992-95), Paris IV (1992-1996) et de l’Ecole Normale Supérieure de la rue d’Ulm (1993-1996).
-* Responsable du DELA (département d’études littéraires anglaises) (1999-2002)
-* Membre du Jury de l’Agrégation Externe d’anglais (1990-1994) ; membre du jury de l’Ecole Nationale du Patrimoine (1994-1996), membre du Jury de l’ENSLSH-Lyon (1997-1998 et 1999-2001).
-* Caïmane du département d’anglais à l’ENS Rue d’ULM (1993-1995)
-
-## Participation à des réseaux et associations professionnelles
-
-* Membre de la SAES (1984—2012)
-* Membre de la SEW (2011-2014)
-* Expertises ponctuelles pour le prix de thèse auprès de l’Institut du Genre.
-
-## Responsabilités éditoriales
-
-* Membre du Comité scientifique international de la revue Subjectivity (Palgrave-Macmillan) (janvier 2012-2014)
-* Membre du Comité de lecture de la revue Tropismes (Université Paris-Ouest), 2011-2012.
-
-## Administration
-
-* Responsable de la Commission d’Admission au MASTER GENRE (juin 2009-septembre 2012)
-* Membre du Comité de Sélection du Centre d’Etudes féminines et d’Etudes de genre (suppléante)
-* Membre de la Commission de Spécialistes 11ème section à Paris 8 (1996-2003), Paris X (1992-95), Paris IV (1992-1996) et à l’Ecole Normale Supérieure (1993-1996)
-* Responsable du Département de Littérature anglaise de l’Université de Paris 8 (1997-2001)
-* Responsable des études (« caïmane ») de la Section d’anglais de l’Ecole Normale Supérieure de la rue d’Ulm (1993-1996)
+Professor of English Literature and Gender Studies at the University of Paris 8 at St-Denis (formerly Vincennes University), I have taught there since 1996 and have been attached to the Department of Women’s and Gender Studies since 2007. I divide my teaching between literature, translation studies and gender studies, with particular insistence on the articulation of French philosophy (Deleuze, Derrida, Lyotard, Foucault), queer writing/queer photography. I am a member of
+"LEGS"-- our CNRS/Paris8/Paris10 research laboratory.
+Some of my recent publications include two co-edited volumes, Cixous sous X (2010) and Cixous Party/Partie de Cixous (2014), and several essays on Cixous. I have published a volume on language and gender, Alphagenre: graphique et politique (2016), and translated an experimental volume of poetry and architecture by Madeline Gins (Helen Keller or Arakawa, 2017).
 
 # Full CV
 
