@@ -10,17 +10,16 @@ Si la langue française entraîne un impératif de substantivation, il n’en va
 
 ## Communications:
 
-BENVENISTE Annie
-Université Paris 8. France
- #metoo : Comment les médias fabriquent du genre
+> BENVENISTE Annie Université Paris 8. France
+> #metoo : Comment les médias fabriquent du genre
 
-EL MIR Myra
-Doctorante UMR LEGS/CNRS/Paris-8/Paris-Nanterre. France
-ﺗﺠﻨﺪرﻧﻴﺶ ﻣﺎ (ma tjandernish): Ne me genre pas!
+> EL MIR Myra
+> Doctorante UMR LEGS/CNRS/Paris-8/Paris-Nanterre. France
+> ﺗﺠﻨﺪرﻧﻴﺶ ﻣﺎ (ma tjandernish): Ne me genre pas!
 
-POUZOL Valérie Université Paris 8. France
-Quand les racines des mots engendrent des maux : Construction des figures du mâle (guever) et de l’héroïsme (gvoura) dans le nationalisme israélien
+> POUZOL Valérie Université Paris 8. France
+> Quand les racines des mots engendrent des maux : Construction des figures du mâle (guever) et de l’héroïsme (gvoura) dans le nationalisme israélien
 
-SETTI Nadia
-Doctorante UMR LEGS/CNRS/P8/Paris Nanterre. France
-L’art de la glisse : contrepoints, contretemps, contre-lectures
+> SETTI Nadia
+> Doctorante UMR LEGS/CNRS/P8/Paris Nanterre. France
+> L’art de la glisse : contrepoints, contretemps, contre-lectures
