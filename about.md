@@ -12,6 +12,7 @@ Professor of English Literature and Gender Studies at the University of Paris 8 
 "LEGS"-- our CNRS/Paris8/Paris10 research laboratory.
 Some of my recent publications include two co-edited volumes,
 *Cixous sous X* (2010) and *Cixous Party/Partie de Cixous* (2014), and several essays on Cixous. I have published a volume on language and gender, *Alphagenre: graphique et politique* (2016), and translated an experimental volume of poetry and architecture by Madeline Gins (*Helen Keller or Arakawa*, 2017).
+{: .text-justify}
 
 # Full CV
 
