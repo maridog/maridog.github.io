@@ -18,11 +18,9 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: Marie Dominique Garnier
 description: Professor of English Literature and Gender Studies, University of Paris 8, France
-#TODO: This is not optimal, but we also use this in the icon below.
 email: mariedog@example.com
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#logo: "/images/site-logo.svg" # path of site logo, e.g. "/assets/images/logo.png"
 logo: "/images/profilePicMarido.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: false
@@ -87,7 +85,7 @@ plugins:
 # Collections
 collections:
   books:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 # Front Matter Defaults

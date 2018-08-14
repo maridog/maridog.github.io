@@ -1,4 +1,4 @@
-# Sample site navigation bar links
+# Site navigation bar links
 
 - title: News
   url: /
@@ -14,10 +14,10 @@
 #   url: /categories/
 # - title: Tags
 #   url: /tags/
-- title: Current Seminars
-  url: /seminars/
-- title: Books
-  url: /books/
+# - title: Current Seminars
+#   url: /seminars/
+# - title: Books
+#   url: /books/
 - title: Research
   url: /research/
 - title: Search

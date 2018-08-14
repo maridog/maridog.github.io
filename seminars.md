@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Current Seminars"
 permalink: /seminars/
 ---
 
