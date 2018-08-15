@@ -16,16 +16,8 @@ Some of my recent publications include two co-edited volumes,
 
 # Full CV
 
-Here is a pdf version of my cv.
+Here is a pdf version of my CV (in French).
 
-<!--
-<object data="/pdf/sample-3pp.pdf#page=2" type="application/pdf" width="100%" height="100%">
-<iframe src="/pdf/sample-3pp.pdf#page=2" width="100%" height="100%" style="border: none;">
-Oops ! It looks like this browser doesn't support viewing PDF. Please download the PDF to view it: <a href="/pdf/sample-3pp.pdf">Download PDF</a>
-</iframe>
-</object>
--->
+<embed src="/pdf/CV2018.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Do">
 
-<embed src="/pdf/sample-3pp.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Do">
-
-If the browser cannot display the file, you can also [download it](/pdf/sample-3pp.pdf)
+If the browser cannot display the file, you can also [download it](/pdf/CV2018.pdf)
