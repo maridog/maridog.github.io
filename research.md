@@ -14,7 +14,10 @@ Text is just text
 
 # Research
 
-Some recent publications are uploaded on academia.edu (see below for direct links):
+My current research projects include a re-reading of contemporary essays by “male” philosophers (Jean-François Lyotard, Gilles Deleuze, Jacques Derrida, Michel Foucault) through gender-based concepts, involving a critique of blind spots in their writing as well as possible paths for the queering/unmounting of their received theoretical voices. In one project the concept of “becoming” imported from the Deleuze and Guattari corpus is revised as a “turning”, a re/volving or re/volting --  involving a book-length study of their key-concept, following up on my earlier “V for Deleuze” essay.
+{: .text-justify}
+
+Some recent publications have been uploaded on academia.edu (see below for direct links):
 
 [Academia](http://univ-paris8.academia.edu/MarieDGarnier/Papers){: .btn .btn--info}
 

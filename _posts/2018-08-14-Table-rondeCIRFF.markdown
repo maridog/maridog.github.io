@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Table-ronde au congrès CIRFF"
-date:   Fri Aug 31
+title:  "Table-ronde au congrès CIRFF "
+date:   Wed Aug 15
 ---
+
+Table-Ronde Dégenrer/Déranger: VOL AU DESSUS DES NOMS DU GENRE, Université Paris Nanterre, 31 août 2018, 9-10H 20, salle D 116
+
 Une prescription menace sous le mot « genre » : celle d’une mise en catégorie nominale, là où le terme anglophone « gender » est une arme, une force de frappe verbale, un éclat de voix. Relire, ici, cette phrase oubliée de Judith Butler : « Gender is not a noun » (*Gender Trouble*). Ce qui relève de la prothèse appelée Djender (et son trouble) avec DJ et plateformes de mixage, est trahi autant que traduit en français par le nom de « genre ». Comment mettre en mots les « rapports sociaux de sexe » sans parler la langue des noms ?
 {: .text-justify}
 
