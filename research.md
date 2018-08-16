@@ -27,7 +27,7 @@ Some recent publications have been uploaded on academia.edu (see below for direc
 |---------|------------------|
 {% include_relative scraper/scraped_papers.md %}
 
-## Books
+## Books and Contributions
 
 | Links   | Title            |
 |---------|------------------|
