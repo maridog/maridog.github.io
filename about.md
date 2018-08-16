@@ -20,4 +20,10 @@ Here is a pdf version of my CV (in French).
 
 <embed src="/pdf/CV2018.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Do">
 
+<object data="/pdf/CV2018.pdf" type="application/pdf" width="100%" height="100%">
+  <p>Your web browser doesn't have a PDF plugin.
+  Instead you can <a href="filename.pdf">click here to
+  download the PDF file.</a></p>
+</object>
+
 If the browser cannot display the file, you can also [download it](/pdf/CV2018.pdf)
