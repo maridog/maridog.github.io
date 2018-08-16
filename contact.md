@@ -6,14 +6,15 @@ permalink: /contact/
 
 ## Mail
 
-My work e-mail is (obfuscated to hide from evil spam bots):
+My work e-mail is:
 <!-- <a href="mailto:{{- site.email -}}"><span class="label">email</span></a> -->
 marie-dominique.garnier[at]univ-paris8.fr
 
 ## Address
 
 <address>
-  UFR 4<br />
+  Université Paris 8<br />
+  UFR Textes et Sociétés<br />
   2 rue de la LIBERTE<br />
   93526 ST DENIS FRANCE
 </address>

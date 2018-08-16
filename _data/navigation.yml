@@ -6,16 +6,14 @@
   url: /about/
 - title: Contact
   url: /contact/
-# - title: CV #TODO: We now have the cv inside the about page
-#   url: /cv/
 # - title: Archive
 #   url: /archive/
 # - title: Categories
 #   url: /categories/
 # - title: Tags
 #   url: /tags/
-# - title: Current Seminars
-#   url: /seminars/
+ - title: Current Seminars
+    url: /seminars/
 # - title: Books
 #   url: /books/
 - title: Research
