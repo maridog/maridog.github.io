@@ -20,7 +20,7 @@ Here is a pdf version of my CV (in French).
 
 <!-- <embed src="/pdf/CV2018.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Do"> -->
 
-<object data="/pdf/CV2018.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Dominique">
+<object data="/pdf/CV2018.pdf" type="application/pdf" width="100%" height="800vh" alt="CV Marie-Dominique">
   <p>There seems to be a problem with the PDF plugin (Maybe mobile device ?).
   Instead you can <a href="/pdf/CV2018.pdf">download it</a></p>
 </object>
