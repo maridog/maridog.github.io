@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Table-ronde au congrès CIRFF "
-published: false
 date:   Fri Aug 31,2018
 ---
 

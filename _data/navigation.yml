@@ -2,12 +2,12 @@
 
 - title: News
   url: /
+- title: Archive
+  url: /archive/
 - title: About
   url: /about/
 - title: Contact
   url: /contact/
-# - title: Archive
-#   url: /archive/
 # - title: Categories
 #   url: /categories/
 # - title: Tags
