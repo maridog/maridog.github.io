@@ -16,8 +16,15 @@ Some of my recent publications include two co-edited volumes,
 
 # Full CV
 
-Here is a pdf version of my CV (in French).
+[Here is a pdf version of my CV (in French).](/pdf/CV2018.pdf)
 
-<embed src="/pdf/CV2018.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Do">
+<!-- <embed src="/pdf/CV2018.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Do"> -->
+
+<!--
+<object data="/pdf/CV2018.pdf" type="application/pdf" width="100%" height="800vh" alt="CV Marie-Dominique">
+  <p>There seems to be a problem with the PDF plugin (Maybe mobile device ?).
+  Instead you can <a href="/pdf/CV2018.pdf">download it</a></p>
+</object>
 
 If the browser cannot display the file, you can also [download it](/pdf/CV2018.pdf)
+-->

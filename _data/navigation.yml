@@ -12,8 +12,8 @@
 #   url: /categories/
 # - title: Tags
 #   url: /tags/
- - title: Current Seminars
-    url: /seminars/
+- title: Current Seminars
+  url: /seminars/
 # - title: Books
 #   url: /books/
 - title: Research
