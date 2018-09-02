@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Table-ronde au congrès CIRFF "
+published: false
 date:   Fri Aug 31,2018
 ---
 
 ## Table-Ronde :
-**Dégenrer/Déranger: VOL AU DESSUS DES NOMS DU GENRE**, 
+**Dégenrer/Déranger: VOL AU DESSUS DES NOMS DU GENRE**,
 Université Paris Nanterre, 31 août 2018,
 9-10H 20, salle D 116
 
