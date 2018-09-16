@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Immigration: Extrait d'*Alphagenre*"
+title:  "Immigration: Extrait d'Alphagenre"
 ---
 
 <object data="/pdf/IMMIGRATION.pdf" type="application/pdf" width="100%" height="800vh" alt="Immigration alphagenre">
