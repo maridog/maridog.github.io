@@ -85,6 +85,7 @@ plugins:
 # Collections
 collections:
   books:
+    # We disabled the output of books for the moment.
     output: false
     permalink: /:collection/:path/
 
@@ -98,7 +99,7 @@ defaults:
       layout: post
       comments: false
       share: true
-  # Recipe defaults
+  # Book defaults
   - scope:
       path: "_books"
       type: books
