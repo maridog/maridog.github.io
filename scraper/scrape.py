@@ -1,4 +1,4 @@
-#!/usr/bin/python3 -tt
+#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
 
 # This script scrapes the academia.edu website to extract an academic work list
 
