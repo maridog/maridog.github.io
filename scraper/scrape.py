@@ -83,6 +83,8 @@ def main():
     #username = 'SeidererAnna' #The username we want to scrape data from
     academia_base_url = 'https://univ-paris8.academia.edu/'
 
+    print("Scraping academia website at: " + academia_base_url + " for username: " + username)
+
     #We scrape a list of works from the academia website
     works = scrapeWorks(academia_base_url, username)
 
@@ -93,6 +95,8 @@ def main():
     #We sort articles and books by date
     papers.sort(key = lambda x : parse(x.getAttrib('created_at')), reverse=True)
     books.sort(key = lambda x : parse(x.getAttrib('created_at')), reverse=True)
+
+    print("Writing output files...")
 
     #Finally we write them to two external files which will be included in 
     #the research page by Jekyll
@@ -105,6 +109,8 @@ def main():
         for paper in papers:
             f.write(paper.toMarkdownListEntry())
             f.write('\n')
+
+    print("Successfully wrote scraped results to scraped_books.md and scraped_papers.md")
 
 if __name__ == '__main__':
     main()
