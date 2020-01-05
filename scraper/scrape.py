@@ -6,6 +6,7 @@ import re
 import json
 import urllib.request
 import pprint
+import os # Needed to store files always in same dir as script
 from dateutil.parser import parse
 
 class Work:
@@ -25,7 +26,7 @@ class Work:
         # else:
             # print('Read json as: ')
             # print(self.workJSON)
-    
+
     def getAttrib(self, attrib):
         """ Safe accessor, returns None if requested attrib not in json """
         if self.workJSON is None:
@@ -75,10 +76,14 @@ def scrapeWorks(base_url, username):
                 #We parse the json (by using Work constructor) and add the
                 #resulting work object to the list of all scraped works
                 works.add(Work(match.group(1)))
-    
+
     return works
 
 def main():
+    #The folder the scraper script is currently located in.  We store the output
+    #files relative to this.
+    script_folder = os.path.basename(os.path.dirname(os.path.realpath(__file__)))
+
     username = 'MarieDGarnier' #The username we want to scrape data from
     #username = 'SeidererAnna' #The username we want to scrape data from
     academia_base_url = 'https://univ-paris8.academia.edu/'
@@ -98,14 +103,14 @@ def main():
 
     print("Writing output files...")
 
-    #Finally we write them to two external files which will be included in 
+    #Finally we write them to two external files which will be included in
     #the research page by Jekyll
-    with open("scraped_books.md","w") as f:
+    with open(script_folder + "/" + "scraped_books.md","w") as f:
         for book in books:
             f.write(book.toMarkdownListEntry())
             f.write('\n')
 
-    with open("scraped_papers.md","w") as f:
+    with open(script_folder + "/" + "scraped_papers.md","w") as f:
         for paper in papers:
             f.write(paper.toMarkdownListEntry())
             f.write('\n')
