@@ -14,8 +14,8 @@
 #   url: /tags/
 - title: Current Seminars
   url: /seminars/
-# - title: Books
-#   url: /books/
+- title: Books
+  url: /books/
 - title: Research
   url: /research/
 - title: Search
