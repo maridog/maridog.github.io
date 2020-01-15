@@ -126,8 +126,8 @@ defaults:
 # Footer Links
 footer_links:
   - title: Twitter
-   url: https://twitter.com/MariDoGarnier
-   icon: fab fa-twitter-square
+    url: https://twitter.com/MariDoGarnier
+    icon: fab fa-twitter-square
   # - title: Mail
   #   url: mailto:mariedog@example.com
   #   icon: far fa-envelope
