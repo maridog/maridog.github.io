@@ -5,4 +5,7 @@ image:
   thumbnail: images/alphagenre_thumbnail.jpg
   caption: "Alphagenre cover"
 ---
- Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+ Cet essai n’est pas un essai à contre-genre mais à contre-institution : contre la pensée sclérosante d’un terme devenu substantif masculin en français, pour traduire et importer une pensée « trouble » qui ne se laisse pas figer en oppositions binaires – eux contre « nous ». Les mots recueillis ici ont en commun de relayer un pouvoir graphique, égrené aux points de rencontre entre corps et langage. Grand G ou petit g, une lettre impose sa gangue muette : de "genre" à "gouvernance" en passant par "jungle", "migrant" ou "hégémonie", cet essai analyse et met en série le régime graphique d'une lettre-corps, courroie de transmission d'une machine à binariser, à pré-former, à réguler ou juguler. Cet essai -(de)- dictionnaire invite à se livrer à une lecture digitale des « reliefs » de la langue médiatique contemporaine, et à pousser plus loin une pensée du « genre » qui se trouve chaque jour ordonnancée, stabilisée sous l’emprise du chiffre deux, des oppositions hommes-femmes, de la logique (de père) de la « parité ». 
+
+ [Lien Harmattan](http://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=51111)

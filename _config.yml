@@ -83,8 +83,7 @@ plugins:
 # Collections
 collections:
   books:
-    # We disabled the output of books for the moment.
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 # Front Matter Defaults
