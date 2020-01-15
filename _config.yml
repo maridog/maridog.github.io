@@ -35,7 +35,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username
+  username: MariDoGarnier # site's Twitter username
 
 # Liquid
 liquid:
@@ -51,8 +51,6 @@ paginate: 10
 paginate_path: /page:num/
 
 # Search
-# TODO: Decide about this, I think we can set this to true as
-# there *should* not be too many posts.
 search_full_content: true
 
 # Taxonomy pages
@@ -127,9 +125,9 @@ defaults:
 
 # Footer Links
 footer_links:
-  # - title: Twitter
-  #  url: https://twitter.com/mariedog
-  #  icon: fab fa-twitter-square
+  - title: Twitter
+   url: https://twitter.com/MariDoGarnier
+   icon: fab fa-twitter-square
   # - title: Mail
   #   url: mailto:mariedog@example.com
   #   icon: far fa-envelope
