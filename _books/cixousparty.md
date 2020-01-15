@@ -1,7 +1,7 @@
 ---
 title: "Cixous Party"
 image:
-  path: images/Cixousparty_cover.jpg
+  path: images/cixousparty_cover.jpg
   #nopageimage: true  #We disable the big image and only keep the thumbnail
   thumbnail: images/cixousparty_thumbnail.jpg
   caption: "Cixousparty cover"
