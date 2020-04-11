@@ -1,28 +1,37 @@
 ---
 layout: post
-title:  "Conf'errance "
-date:   Wed Feb 26,2020
+title:  "Corps On A"
+date:  Sat Apr 11 2020
 ---
-
-## Conf'errance : Genre déplacé. Marcher à travers campus ?
-
-> Mercredi 26 février 2020, 10H<br>
-> Campus St Denis : bâtîment B2 salle B344 <br>
-> Metro ligne 13 - Université, <br>
-
-
-
-### Argument:
-
-
-
-Marcher dans l'université, non pas pour la marchandiser ni pour la traverser, ni pour aller d'un point à un autre portable en main, mais pour être traversé.e par « elle », par ses bifurcations, ses effets de champ, ses ruptures, ses lignes de fuite, son « bâti », ses contre-jours. A quelles conditions bifurquer, fausser compagnie, faire fourche ou faire contact, contre-carrer l’orthogonalité des murs ? En étant par exemple alerté.es par les murs qui parlent, les fissures, les interstices ; en s'arrêtant aux signes envoyés par les graffitis, en lisant de façon tactile, en trébuchant, en désarçonnant ou en ré-amorçant les sons ; en dérangeant ou dé-genreant ; en se perdant ; en faisant corps
-.
-
-
-### Intervenant.e.s:
-
-| --- |:---:|
-BENVENISTE Annie | est anthropologue, enseignante-chercheur émérite à l’université Paris 8, membre du  Laboratoire d’études de genre et de sexualité (UMR LEGS).
-GARNIER Marie Dominique  | est angliciste et littéraire de formation, chercheure à l’UMR-LEGS et Professeure de littérature de langue anglaise et d’études de genre à l’Université  Paris 8, à l’UFR Textes et Sociétés.
-MALATRAY Gilles| est marcheur-écouteur, sound artist, porteur de l'association Desartsonnants.
+```
+Corps On A
+Corona dit la couronne
+Corona disent les rois
+Il faut couronner
+Disent les dentistes.
+Corona Kronenburg disent
+Les bouteilles
+Pour patienter
+Se désaltérer
+En attendant la royauté
+Ou je ne sais quoi.
+Couronnés de fleurs soupirent
+Les morts.
+Couronne à piques acérées,
+Couronne radiée
+De la Statue dite de la Liberté.
+Couronnes, un bruit de pièces d’argent
+Couronne d’office où suspendre
+Les salaisons en attente de
+Résurrection.
+Ni Kron, ni couronnes, ni chroniques,
+Et pas de macaroniques.
+Pour couper court au cercle
+Prendre la tangente
+Se retrouver sans rois,
+Rêver d’Héliogabale ou
+D’anarchie couronnée,
+Couper en trois, ajouter
+L’air autour:
+Corps on a.
+```
