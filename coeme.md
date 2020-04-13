@@ -3,5 +3,6 @@ layout: collection
 title: "Co-ème"
 permalink: /coeme/
 collection: coeme
-<!-- entries_layout: grid -->
+show_excerpts: false
+entries_layout: grid
 ---
