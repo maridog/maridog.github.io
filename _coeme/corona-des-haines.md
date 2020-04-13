@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CORON-ADN, CORONA des haines"
+title: "CORON-ADN"
 ---
 ```
 ADN. ARN. ARNm.
