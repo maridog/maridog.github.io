@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Corps On A"
-date:  Sat Apr 11 2020
----
+title: "Corps On A"
+--
 ```
-Corps On A
 Corona dit la couronne
 Corona disent les rois
 Il faut couronner
