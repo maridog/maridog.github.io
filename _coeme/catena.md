@@ -9,7 +9,7 @@ Aux autos assemblées
 Point de départ
 De la révolution du Kuomintang
 ```
-![Kuomintang]](/images/coeme-catena-img1.png)
+![Kuomintang](/images/coeme-catena-img1.png)
  ```
 Où vivent et meurent enfermés
 Des paysans devenus ouvriers à
@@ -34,7 +34,7 @@ Des demi-vivants
 Au corps à
 Couronne,
 ```
-![Couronne]](/images/coeme-catena-img2.png)
+![Couronne](/images/coeme-catena-img2.png)
 ```
 Tandis que des coroners
 Enquêtent sur les décès violents,
