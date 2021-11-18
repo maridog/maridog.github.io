@@ -1,6 +1,6 @@
 #+TITLE: IVY LIGUE
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="basic.css" />
-#+OPTIONS: toc:nil, num:nil, html-postamble:nil
+#+OPTIONS: toc:nil, num:nil
 
 #+BEGIN_EXPORT html
 <style>
@@ -11,8 +11,6 @@ canvas#canvasvines {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100vw;
-  height: 100vh;
   z-index: 1;
 }
 </style>
@@ -21,15 +19,14 @@ canvas#canvasvines {
 <script type="text/javascript" src="vines.js"></script>
 #+END_EXPORT
 
-#+BEGIN_QUOTE
-Pour faire pousser du lierre,
-
-en un clin d'œil,
-
-cliquez,
-
-ici ou là...
-#+END_QUOTE
+#+BEGIN_EXPORT html
+<p style="color:#008000">
+Pour faire pousser du lierre,<br>
+en un clin d'œil,<br>
+cliquez,<br>
+ici ou là...<br>
+</p>
+#+END_EXPORT
 
 * Atelier en projet
 

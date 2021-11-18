@@ -60,8 +60,10 @@ function clear() {
 
 function resizeCanvas() {
     /* Make canvas full screen */
+    // canvas.width = window.innerWidth;
+    // canvas.height = window.innerHeight;
     canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    canvas.height = document.documentElement.scrollHeight;
     clear();
 }
 
@@ -386,7 +388,8 @@ document.addEventListener("keydown", (e) => {
 });
 
 /* Sets canvas to full screen, and hook on resize. */
-resizeCanvas();
+// resizeCanvas(); Somehow calling directly here seems to have race cond with the css
+window.addEventListener("load", (e) => {console.log("resized"); resizeCanvas()});
 window.addEventListener("resize", (e) => {console.log("resized"); resizeCanvas()});
 
 setInterval(execDrawFuncs, 1000 / framerate);
