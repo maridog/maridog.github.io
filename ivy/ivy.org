@@ -67,7 +67,6 @@ composante dynamique sur site) se situent au croisement de :
   culturel » en tant que dispositif susceptible de transformer
   chacun.e en « acteur.rice ».
 
-
 * Description
 
 Cet atelier transdisciplinaire vise à échafauder des passerelles en
@@ -127,3 +126,7 @@ Chimères n°82, 2014/1).
 
 - Email :  [[mailto:marie-dominique.garnier@univ-paris8.fr]]
 - Université de Paris 8 St Denis
+* Local Variables :noexport:
+Local Variables:
+org-html-postamble: "Procedural vines by Gabriel Giamarchi, using perlin noise from Stefan Gustavson."
+End:
