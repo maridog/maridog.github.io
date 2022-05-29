@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-11-18 Thu 11:44 -->
+<!-- 2021-11-18 Thu 11:43 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>IVY LIGUE</title>
@@ -180,7 +180,7 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="pretty.css" />
+<link rel="stylesheet" type="text/css" href="basic.css" />
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -253,9 +253,9 @@ cliquez,<br>
 ici ou là...<br>
 </p>
 
-<div id="outline-container-orgadde2c5" class="outline-2">
-<h2 id="orgadde2c5">Atelier en projet</h2>
-<div class="outline-text-2" id="text-orgadde2c5">
+<div id="outline-container-orga8f5645" class="outline-2">
+<h2 id="orga8f5645">Atelier en projet</h2>
+<div class="outline-text-2" id="text-orga8f5645">
 <p>
 Entre pratiques « vertes » (semer, planter, végétaliser ou « renaturer
 »), expérimentations artistiques et dispositifs universitaires
@@ -301,9 +301,9 @@ chacun.e en « acteur.rice ».</li>
 </div>
 </div>
 
-<div id="outline-container-orgaa5d3e6" class="outline-2">
-<h2 id="orgaa5d3e6">Description</h2>
-<div class="outline-text-2" id="text-orgaa5d3e6">
+<div id="outline-container-orgcd094c4" class="outline-2">
+<h2 id="orgcd094c4">Description</h2>
+<div class="outline-text-2" id="text-orgcd094c4">
 <p>
 Cet atelier transdisciplinaire vise à échafauder des passerelles en
 vue de la « réclamation » (reclaim) des communs : un « campus »
@@ -354,13 +354,13 @@ Chimères n°82, 2014/1).
 </div>
 </div>
 
-<div id="outline-container-org2861c94" class="outline-2">
-<h2 id="org2861c94">Organisatrices</h2>
-<div class="outline-text-2" id="text-org2861c94">
+<div id="outline-container-org2228055" class="outline-2">
+<h2 id="org2228055">Organisatrices</h2>
+<div class="outline-text-2" id="text-org2228055">
 </div>
-<div id="outline-container-orgf903749" class="outline-3">
-<h3 id="orgf903749">Alexandra PICHETA</h3>
-<div class="outline-text-3" id="text-orgf903749">
+<div id="outline-container-org6a6a207" class="outline-3">
+<h3 id="org6a6a207">Alexandra PICHETA</h3>
+<div class="outline-text-3" id="text-org6a6a207">
 <ul class="org-ul">
 <li>Email : <a href="mailto:alpicheta@gmail.com">mailto:alpicheta@gmail.com</a></li>
 <li>Université de Paris 8 /NYC, New School for Social Research</li>
@@ -368,9 +368,9 @@ Chimères n°82, 2014/1).
 </div>
 </div>
 
-<div id="outline-container-orga73f16b" class="outline-3">
-<h3 id="orga73f16b">Eugénie PERON-DOUTE</h3>
-<div class="outline-text-3" id="text-orga73f16b">
+<div id="outline-container-org70cfef8" class="outline-3">
+<h3 id="org70cfef8">Eugénie PERON-DOUTE</h3>
+<div class="outline-text-3" id="text-org70cfef8">
 <ul class="org-ul">
 <li>Email : <a href="mailto:eugenie.perondoute@yahoo.fr">mailto:eugenie.perondoute@yahoo.fr</a></li>
 <li>Université de Limoges /Université de Guelph (Canada)</li>
@@ -378,9 +378,9 @@ Chimères n°82, 2014/1).
 </div>
 </div>
 
-<div id="outline-container-orgb2915cd" class="outline-3">
-<h3 id="orgb2915cd">Marie Dominique GARNIER</h3>
-<div class="outline-text-3" id="text-orgb2915cd">
+<div id="outline-container-org8db60b6" class="outline-3">
+<h3 id="org8db60b6">Marie Dominique GARNIER</h3>
+<div class="outline-text-3" id="text-org8db60b6">
 <ul class="org-ul">
 <li>Email :  <a href="mailto:marie-dominique.garnier@univ-paris8.fr">mailto:marie-dominique.garnier@univ-paris8.fr</a></li>
 <li>Université de Paris 8 St Denis</li>
@@ -390,7 +390,7 @@ Chimères n°82, 2014/1).
 </div>
 </div>
 <div id="postamble" class="status">
-Procedural vines by Gabriel Giamarchi, using perlin noise from Stefan Gustavson.
+test test
 </div>
 </body>
 </html>
