@@ -28,14 +28,14 @@ ici ou là...<br>
 </p>
 #+END_EXPORT
 
-* Atelier-Atelierre-Ateliens, [[https://www.univ-paris8.fr/Critical-Edge-Alliance-Conference-2022-in-Paris-8-University][Cricital Edge Alliance Conference]], Paris8
+* Atelier-Atelierre-Ateliens, [[https://www.univ-paris8.fr/Critical-Edge-Alliance-Conference-2022-in-Paris-8-University][Critical Edge Alliance Conference]], Paris8
 
 ** Horaire
 
 (A confirmer/To be confirmed)
 
 #+ATTR_HTML: border 2 :rules all :frame border
-| 17 Juin 2022, 10:00 - 12:30 | II Workshop - Ivy ligue : A Green Campus in Seine-Saint-Denis - By Marie-Dominique Garnier, Eugénie Péron-Douté and Alexandra Picheta (France) |
+| 17 Juin 2022, 10:00 - 12:30 | II Workshop - Ivy Ligue/Ivy League : A Green Campus in Seine-Saint-Denis - By Marie-Dominique Garnier, Eugénie Péron-Douté and Alexandra Picheta (France) |
 
 ** A propos
 
