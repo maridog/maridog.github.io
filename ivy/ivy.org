@@ -1,6 +1,6 @@
 #+TITLE: IVY LIGUE
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="basic.css" />
-#+OPTIONS: toc:nil, num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="pretty.css" />
+#+OPTIONS: toc:nil, num:nil, html-style:nil
 
 #+BEGIN_EXPORT html
 <style>
@@ -28,7 +28,16 @@ ici ou là...<br>
 </p>
 #+END_EXPORT
 
-* Atelier en projet
+* Atelier-Atelierre-Ateliens, [[https://www.univ-paris8.fr/Critical-Edge-Alliance-Conference-2022-in-Paris-8-University][Cricital Edge Alliance Conference]], Paris8
+
+** Horaire
+
+(A confirmer/To be confirmed)
+
+#+ATTR_HTML: border 2 :rules all :frame border
+| 17 Juin 2022, 10:00 - 12:30 | II Workshop - Ivy ligue : A Green Campus in Seine-Saint-Denis - By Marie-Dominique Garnier, Eugénie Péron-Douté and Alexandra Picheta (France) |
+
+** A propos
 
 Entre pratiques « vertes » (semer, planter, végétaliser ou « renaturer
 »), expérimentations artistiques et dispositifs universitaires
@@ -67,49 +76,49 @@ composante dynamique sur site) se situent au croisement de :
   culturel » en tant que dispositif susceptible de transformer
   chacun.e en « acteur.rice ».
 
-* Description
+** Description
 
-Cet atelier transdisciplinaire vise à échafauder des passerelles en
-vue de la « réclamation » (reclaim) des communs : un « campus »
-constituant une forme de commun (common) lisible à la fois comme champ
-de savoir et sol partagé sur lequel faire croître des formes
-d’interactions entre vivants « humains » et non-humains.  Un atelier
-de 2 heures est prévu, permettant d’articuler la présentation de
-recherches contemporaines sur les symbioses et d’opérer une critique
-de la notion de « parasitisme », longtemps restée un concept clé pour
-penser les relations inter-espèce. Comment transformer un campus en «
-boite verte » ?  La plantation de lierre, dont les rameaux fertiles se
-propagent au hasard des supports et des hôtes, est une des pistes à
-suivre, en lien avec une marche exploratoire sur site, avec repérage
-et inventaire des interstices où greffer, machiner, laisser émerger de
-façon adventice. Le lierre grimpant permet d’héberger des insectes, de
-lutter contrer les effets du réchauffement climatique. Contrairement à
-sa réputation de « parasite », il n’endommage pas les supports mais
-les protège.  Rampant, il protège les sols.  Recouvrir, revégétaliser
-(à moindre coût) les interstices d’un campus, permettrait d’y inviter
-une expérimentation trans-espèce, ouverte aux métamorphoses  , d’y
-aménager des espaces potentiels, des fonds d’œuvre (comme la verdure
-d’Etant donnés) et d’y respirer un air dépollué, libéré de son ampoule
-(Duchamp, « Air de Paris » (1919).
+ Cet atelier transdisciplinaire vise à échafauder des passerelles en
+ vue de la « réclamation » (reclaim) des communs : un « campus »
+ constituant une forme de commun (common) lisible à la fois comme champ
+ de savoir et sol partagé sur lequel faire croître des formes
+ d’interactions entre vivants « humains » et non-humains.  Un atelier
+ de 2 heures est prévu, permettant d’articuler la présentation de
+ recherches contemporaines sur les symbioses et d’opérer une critique
+ de la notion de « parasitisme », longtemps restée un concept clé pour
+ penser les relations inter-espèce. Comment transformer un campus en «
+ boite verte » ?  La plantation de lierre, dont les rameaux fertiles se
+ propagent au hasard des supports et des hôtes, est une des pistes à
+ suivre, en lien avec une marche exploratoire sur site, avec repérage
+ et inventaire des interstices où greffer, machiner, laisser émerger de
+ façon adventice. Le lierre grimpant permet d’héberger des insectes, de
+ lutter contrer les effets du réchauffement climatique. Contrairement à
+ sa réputation de « parasite », il n’endommage pas les supports mais
+ les protège.  Rampant, il protège les sols.  Recouvrir, revégétaliser
+ (à moindre coût) les interstices d’un campus, permettrait d’y inviter
+ une expérimentation trans-espèce, ouverte aux métamorphoses  , d’y
+ aménager des espaces potentiels, des fonds d’œuvre (comme la verdure
+ d’Etant donnés) et d’y respirer un air dépollué, libéré de son ampoule
+ (Duchamp, « Air de Paris » (1919).
 
-Lorsque Duchamp quitte Paris pour New York en 1919, il emporte avec
-lui un ready-made portable, une ampoule pharmaceutique vidée de son
-contenu et resoudée. Duchamp se définie alors comme « respirateur
-». La respiration et la circulation sont au cœur des préoccupations
-duchampiennes.
+ Lorsque Duchamp quitte Paris pour New York en 1919, il emporte avec
+ lui un ready-made portable, une ampoule pharmaceutique vidée de son
+ contenu et resoudée. Duchamp se définie alors comme « respirateur
+ ». La respiration et la circulation sont au cœur des préoccupations
+ duchampiennes.
 
-Parmi les plantations proposées de nombreuses plantes peuvent être
-mentionnées, outre le lierre grimpant, reconnu pour son absence
-d’impact négatif sur les supports, et qui fleurit à la rentrée du
-calendrier universitaire : de septembre à octobre. Cet atelier sera
-l’occasion d’évoquer d’autres espèces « compagnes », pour reprendre la
-formule de Donna Haraway : « nous ne sommes pas autonomes, notre
-existence dépend de notre capacité à vivre ensemble ».  (When Species
-Meet, p. 4) ; et de resituer le questionnement végétal et les
-questions climatiques dans le contexte des études de genre auxquelles
-se rattachent les trois porteur.e.s du projet, sur fond de « politique
-régénérative des corps » (O. Potot, « Nous sommes tout.e.s du lichen,
-Chimères n°82, 2014/1).
+ Parmi les plantations proposées de nombreuses plantes peuvent être
+ mentionnées, outre le lierre grimpant, reconnu pour son absence
+ d’impact négatif sur les supports, et qui fleurit à la rentrée du
+ calendrier universitaire : de septembre à octobre. Cet atelier sera
+ l’occasion d’évoquer d’autres espèces « compagnes », pour reprendre la
+ formule de Donna Haraway : « nous ne sommes pas autonomes, notre
+ existence dépend de notre capacité à vivre ensemble ».  (When Species
+ Meet, p. 4) ; et de resituer le questionnement végétal et les
+ questions climatiques dans le contexte des études de genre auxquelles
+ se rattachent les trois porteur.e.s du projet, sur fond de « politique
+ régénérative des corps » (O. Potot, « Nous sommes tout.e.s du lichen,
+ Chimères n°82, 2014/1).
 
 * Organisatrices
 
@@ -126,6 +135,7 @@ Chimères n°82, 2014/1).
 
 - Email :  [[mailto:marie-dominique.garnier@univ-paris8.fr]]
 - Université de Paris 8 St Denis
+
 * Local Variables :noexport:
 Local Variables:
 org-html-postamble: "Procedural vines by Gabriel Giamarchi, using perlin noise from Stefan Gustavson."
