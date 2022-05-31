@@ -35,7 +35,7 @@ ici ou là...<br>
 (A confirmer/To be confirmed)
 
 #+ATTR_HTML: border 2 :rules all :frame border
-| 17 Juin 2022, 10:00 - 12:30 | II Workshop - Ivy Ligue/Ivy League : A Green Campus in Seine-Saint-Denis - By Marie-Dominique Garnier, Eugénie Péron-Douté and Alexandra Picheta (France) |
+| 17 Juin 2022, 13:30 - 16:00  | II Workshop - Ivy Ligue/Ivy League : A Green Campus in Seine-Saint-Denis - By Marie-Dominique Garnier, Eugénie Péron-Douté and Alexandra Picheta (France) |
 
 ** A propos
 
