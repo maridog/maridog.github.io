@@ -10,7 +10,7 @@ date:   Fri Jun 14,2022
 > Campus St Denis : Maison de la Recheche, Hall A2 203 <br>
 > Metro ligne 13 - direction Université <br>
 
-Pour le programme et pour faire pousser du lierre sur votre écran [cliquez ici](https://maridogarnier.com/ivy/ivy)
+Pour le programme et pour faire pousser du lierre sur votre écran [cliquez ici](https://www.maridogarnier.com/ivy/ivy)
 
 Cet atelier transdisciplinaire vise à repenser le campus de l’université Paris 8 à Saint-Denis en tant que
 « champ » ouvert à l’expérimentation, lieu où favoriser l’implantation de (contre)-modèles non
