@@ -36,11 +36,36 @@ class Work:
         else:
             return self.workJSON[attrib]
 
+    def getPublicationYear(self):
+        """Return publication year or zero if no metadata found"""
+        meta = self.getAttrib("metadata");
+        
+        if meta is None:
+            return 0
+
+        if "publication_date" not in meta or "year" not in meta["publication_date"]:
+            return 0;
+
+        return int(meta["publication_date"]["year"])
+
     def toMarkdownListEntry(self):
         """ Writes a table-entry in markdown to represent this work """
         assert(self.workJSON is not None)
         #[Success Button Text](#link){: .btn .btn--success}
-        out = '| ' + '[link]' + '(' + self.getAttrib('internal_url') + ')' + '{: .btn .btn--inverse}' + ' | ' + self.getAttrib('title') + ' |'
+        out = '| ' + '[academia link]' + '(' + self.getAttrib('internal_url') + ')' + '{: .btn .btn--inverse}'
+        out += ' | ' + self.getAttrib('title')
+
+        #If we can find a download url, add a button
+        atta = self.getAttrib("downloadable_attachments")
+        print("Attachments for: " + str(self.getAttrib('title')) + ": " + str(atta))
+        dl_url = None
+        if atta is not None and len(atta) == 1 and "download_url" in atta[0]:
+            dl_url = atta[0]["download_url"]
+
+        if dl_url is not None:
+            out += ' | ' + '[download]' + '(' + dl_url + ')' + '{: .btn .btn--inverse}'
+
+        out += ' |'
         return out
 
     def __str__(self):
@@ -97,9 +122,13 @@ def main():
     books = [w for w in works if (w.getAttrib('document_type') == 'book')]
     papers = [w for w in works if (w.getAttrib('document_type') == 'paper')]
 
-    #We sort articles and books by date
-    papers.sort(key = lambda x : parse(x.getAttrib('created_at')), reverse=True)
-    books.sort(key = lambda x : parse(x.getAttrib('created_at')), reverse=True)
+    #We sort articles and books by upload date
+    #papers.sort(key = lambda x : parse(x.getAttrib('created_at')), reverse=True)
+    #books.sort(key = lambda x : parse(x.getAttrib('created_at')), reverse=True)
+
+    #We sort articles and books by publication year.
+    papers.sort(key = lambda x : x.getPublicationYear(), reverse=True);
+    books.sort(key = lambda x : x.getPublicationYear(), reverse=True);
 
     print("Writing output files...")
 
