@@ -1,2 +1,2 @@
-| [link](https://www.academia.edu/40347892/Helen_Keller_ou_Arakawa){: .btn .btn--inverse} | Helen Keller ou Arakawa |
-| [link](https://www.academia.edu/40347851/Jardins_dhiver_Litt%C3%A9rature_et_Photographie){: .btn .btn--inverse} | Jardins d'hiver. Littérature et Photographie |
+| [academia link](https://www.academia.edu/40347892/Helen_Keller_ou_Arakawa){: .btn .btn--inverse} | Helen Keller ou Arakawa | [download](https://www.academia.edu/attachments/60593485/download_file?st=MTY3NDIzMTA4Nyw4My43Ni4yNDIuNzc%3D&){: .btn .btn--inverse} |
+| [academia link](https://www.academia.edu/40347851/Jardins_dhiver_Litt%C3%A9rature_et_Photographie){: .btn .btn--inverse} | Jardins d'hiver. Littérature et Photographie | [download](https://www.academia.edu/attachments/60593452/download_file?st=MTY3NDIzMTA4Nyw4My43Ni4yNDIuNzc%3D&){: .btn .btn--inverse} |
