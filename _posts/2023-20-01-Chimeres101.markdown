@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Vient de paraître : Guattari+30 (Chimères n°101)"
-date:   Thu Feb 2,2023
+title: "Vient de paraître : Guattari+30 (Chimères n°101)"
+date: Thu Feb 2,2023
 ---
 
 ## GUATTARI+30
 
-### Revue Chimères n°100
+### Revue Chimères n°101
 
 ![Couverture](https://www.editions-eres.com/media/cache/my_thumb_couverture/uploads/img300dpi/202301021404chimeres-101-page-1.jpg)
 
@@ -25,4 +25,4 @@ Avec la participation de: **Manola ANTONIOLI**, **Olivier APPRILL**,
 **Elsa LOPEZ**, **Miguel D. NORAMBUENA**, **Peter PAL PELBART**,
 **Jean-Claude POLACK**, **Anne QUERRIEN**, **Marcello REAL**,
 **Monique SELIM**, **Kuniichi UNO**,
-* **Catherine VALLON**, **Quentin VERGRIETE**,
+**Catherine VALLON**, **Quentin VERGRIETE**,
