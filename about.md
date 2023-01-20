@@ -16,7 +16,7 @@ Some of my recent publications include two co-edited volumes,
 
 # Full CV
 
-[Here is a pdf version of my CV (in French).](/pdf/CV2018.pdf)
+[Here is a pdf version of my CV (in French).](/pdf/CV2023_long.pdf)
 
 <!-- <embed src="/pdf/CV2018.pdf" style="border: 1px solid powderblue; height: 100vh" type="application/pdf" width="100%" height="100vh" alt="CV Marie-Do"> -->
 
