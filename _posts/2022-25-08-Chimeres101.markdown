@@ -1,60 +1,28 @@
 ---
 layout: post
-title:  "Vient de paraître : Intervenir (Chimères n°100)"
-date:   Thu Aug 25,2022
+title:  "Vient de paraître : Guattari+30 (Chimères n°101)"
+date:   Thu Feb 2,2023
 ---
 
-## Intervenir
+## GUATTARI+30
 
 ### Revue Chimères n°100
 
-![Couverture](https://www.editions-eres.com/uploads/img300dpi/2022060720419782749274201.jpg)
+![Couverture](https://www.editions-eres.com/media/cache/my_thumb_couverture/uploads/img300dpi/202301021404chimeres-101-page-1.jpg)
 
-Dossier coordonné par 
-**Marie Dominique GARNIER**, **Anne QUERRIEN**, **Valentin SCHAEPELYNCK**
- 
+Dossier coordonné par
+**Quentin VERGRIETE**
 
-Au point de départ de ce numéro de Chimères, un constat partagé : nos
-amis, Deleuze et Guattari, Derrida ou encore Foucault, sont attaqués
-par des réactionnaires fascisants, pendant que d'autres de nos amis «
-moins connus » sont attaqués à l'intérieur même de « leurs »
-institutions par leurs épigones. Dès lors, comment intervenir ?
 
-Intervenir, c'est ce que fait le·la clinicien·ne, le·la militant·e,
-mais peut-être aussi tout un·e chacun·e ou même tout collectif, pour
-s'émanciper de ce qui lui pèse, l'empêche ou l'oppresse.
+Automne 2022, à l’occasion des trente ans de la disparition de Félix Guattari, de nombreux événements ont été organisés sous l’impulsion de l’association Chaosmosemedia, en France et un peu partout dans le monde, pour célébrer le penseur, le militant, l’ami, dont l’apport singulier a été trop longtemps méconnu, souvent éclipsé derrière le nom de Deleuze.
+Du 6 au 9 octobre au cinéma Nova à Bruxelles une série de films, de documentaires, d’archives vidéo en lien avec Félix Guattari sont projetés. Le 15 octobre à La Fab. d’Agnès b, Annick Kouba, Jean-Claude Polack, Paul Brétécher et Sébastien Raimondi, éditeur de Lignes, présentent Trialogues, retranscription de conversations cliniques entre Danielle Sivadon, Félix Guattari et Jean Claude Polack, et la réédition de Chaosmose. Le 17 octobre un débat animé par Alessandro Sati et Bifo autour de la réception scientifique des concepts guattariens a lieu à l’ehess. Le 18 octobre des analystes et philosophes se réunissent à la Parole Errante à Montreuil pour s’interroger sur les postérités cliniques de Félix. Le 19, dans un amphithéâtre de Censier, des associations de patients et soignants, des clubs, des gem, des collectifs du monde entier (représentés pour certains par des vidéo-lettres) se regroupent à l’initiative de Susana Caló et François Pain, autour de l’idée d’une reprise des tentatives faites par le Réseau-Alternative à la psychiatrie à la fin des années 1970. Suivent enfin trois journées intenses de colloque international à l’Université Paris 8. Parallèlement et jusqu’à mi-novembre les œuvres d’amis de Félix (François Pain, Franco Berardi, Marion Scemama) sont exposées à la New Galerie, rue Borda à Paris…
 
-Ce numéro s'était donc initialement donné pour tâche d'accueillir des
-textes qui se saisissent de l'intervention dans la pluralité de ses
-significations et de ses pratiques, cherchant à ouvrir des
-perspectives du point de vue de la micropolitique, de la production de
-subjectivité, de la clinique de l'inconscient, de l'analyse
-institutionnelle, de l'écosophie, donnant à entendre la confrontation
-permanente, dans le champ social, entre forces instituantes et ordre
-institué.
 
-Mais l’attaque de l’Ukraine par la Russie a donné à cette notion
-d’intervention d’autres dimensions. Ce numéro se partage donc entre
-des réactions à chaud sur l’actualité et une interrogation multiforme
-sur les possibilités de pratiques relativement autonomes dans
-différents champs d’accueil et d’hospitalité. Les voix y sont
-hétérogènes, les objets de réflexion dispersés. Les deux perspectives,
-actuelle et institutionnelle, ont pour point commun de nous inciter à
-penser la résistance aux violences politiques et guerrières, la
-possibilité d'instituer de nouvelles solidarités transnationales,
-planétaires, y compris dans les domaines les plus anodins, le rôle de
-l’humour (dans les séries télévisées par exemple) dans la levée du
-désir de démocratie.
- 
-
-Avec la participation de: **Marie ALLIONE**, **Claude ALLIONE**,
-**Françoise ATTIBA**, **Bouazza BENACHIR Marco CANDORE**, **Yves
-COHEN**, **Zorka DOMIC**, **Anderson DOS SANTOS**, **Olivier
-DOUVILLE**, **Leila ELYAAKABI**, **Marie ESCHMANN**, **Dominique
-FABRE**, **Michel FADAT**, **Patrick FAUGERAS**, **Elias JABRE**,
-**Pierre Johan LAFFITTE**, **Damien LALLEMAND**, **Chowra MAKAREMI**,
-**Adriana MARINO**, **Hanna MOKROUSOVA**, **Ana Carolina PERELLA**,
-**Jean-Claude POLACK**, **Perrine POUPIN**, **Marie PRESTON**,
-**Catherine RIVAL FOUBERT**, **Stephen SHEEHI**, **Lara SHEEHI**,
-**Natascia TOSEL**, **Catherine VALLON**, **Barbara VERITE**,
-**Christiane VOLLAIRE**
+Avec la participation de: **Manola ANTONIOLI**, **Olivier APPRILL**,
+**Guy BEREZNE**, **JEAN BEREZNENE**, **Paul BRETECHER, **Loreline COURRET**, **Linda DE ZITTER**,
+**Pierre DELION**, **François FOURQUET**, **Marie-Dominique GARNIER**,
+**Elias JABRE**, **Olivier JACQUEMOND**, **Jean-Sébastien LABERGE**,
+**Elsa LOPEZ**, **Miguel D. NORAMBUENA**, **Peter PAL PELBART**,
+**Jean-Claude POLACK**, **Anne QUERRIEN**, **Marcello REAL**,
+**Monique SELIM**, **Kuniichi UNO**,
+* **Catherine VALLON**, **Quentin VERGRIETE**,
